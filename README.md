@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="app-icon.png" alt="DoFlow Logo" width="100"/>
+</p>
+
 # 📱 DoFlow – APK Releases
 
 **DoFlow** is a clean, minimal productivity app designed to manage tasks visually through flows and calendars.
